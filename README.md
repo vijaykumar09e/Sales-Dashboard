@@ -72,9 +72,9 @@ The purpose of this dashboard is to enable business stakeholders to:
 
 ## 🙌 Author
 
-👤 **Vijay Kumar**
-💼 BI Architect | Data Engineer | Cloud BI Specialist
-🛠️ Tools: Power BI, Tableau, Snowflake, Azure, AWS, SQL, Python
+👤 **Vijay Kumar**  
+💼 BI Architect | Data Engineer | Cloud BI Specialist  
+🛠️ Tools: Power BI, Tableau, Snowflake, Azure, AWS, SQL, Python  
 
 ⭐ If you find this project useful, please consider giving it a star!
 
