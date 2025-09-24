@@ -22,13 +22,13 @@ The purpose of this dashboard is to enable business stakeholders to:
 
 ## 🚀 Key Features
 
-✨ **Sales by Target & Achieved** → Compare actuals vs. YTD targets
-✨ **Sales by Type** → Existing vs. new business performance
-✨ **Sales by LOS** → Contribution by Content, MLS, D\&T, UT, Learning Technology
-✨ **Sales by ESR (Sales Rep)** → Breakdown of individual contributions
-✨ **Sales by Orbit** → Bronze, Copper, Silver, Gold performance tiers
-✨ **Sales by Solution** → Leadership vs. General L\&D
-✨ **Interactive Filters** → Year & Quarter slicers for dynamic insights
+✨ **Sales by Target & Achieved** → Compare actuals vs. YTD targets   
+✨ **Sales by Type** → Existing vs. new business performance  
+✨ **Sales by LOS** → Contribution by Content, MLS, D\&T, UT, Learning Technology  
+✨ **Sales by ESR (Sales Rep)** → Breakdown of individual contributions  
+✨ **Sales by Orbit** → Bronze, Copper, Silver, Gold performance tiers   
+✨ **Sales by Solution** → Leadership vs. General L\&D   
+✨ **Interactive Filters** → Year & Quarter slicers for dynamic insights   
 
 ---
 
